@@ -4,10 +4,7 @@
  */
 package com.mycompany.dsa_asg1;
 
-/**
- *
- * @author Asus
- */
+
 public class MemberManagement {
     
 }
